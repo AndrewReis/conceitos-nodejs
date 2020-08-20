@@ -1,21 +1,21 @@
 <h1 align="center">
     <h1 align="center"><img src="https://github.com/AndrewReis/conceitos-nodejs/blob/master/src/assets/desafio02.png" alt="GoStack desafio 02"/></h1>
 </h1>
-<p align="center"> **Desafio 02 GO Stack**🚀: Conceitos de nodeJs </p>
+<h1 align="center"> 🚀Bootcamp GoStack: Desafio 02 - Conceitos de nodeJs </h1>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> 
+ <a href="#objetivo">Conceitos</a> 
  <a href="#tecnologias">Tecnologias</a>  
  <a href="#autor">Autor</a> 
 </p>
 
-<h4 align="center"> 
-	🚀  Projeto finalizado.  🚀
-</h4>
+<p align="center"> 
+	Aqui foi estudado os conceitos básicos da construção de uma API Rest em NodeJS + Express. Objetivo foi criar uma api funcional para gerenciar repositórios fake, no github, utilizando um CRUD (CREATE READ UPDATE DELETE), armazenando os dados em varáveis na memória.  
+</p>
 
 
 
-<h1 id='objetivo'> 🎯 Objetivo </h1>
+<h1 id='objetivo'> 🎯 Conceitos </h1>
 
 
 <p align="center">
@@ -57,8 +57,7 @@ Body Params: recebe os dados da requisição no corpo da requisição, em um obj
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
-- [Jest](https://reactnative.dev/)
-- [Supertest]()
+- [Jest](https://jestjs.io/)
 
 
 <h1 id='autor'> 🙋🏽‍♂️ Autor </h1>
